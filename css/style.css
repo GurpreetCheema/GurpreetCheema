@@ -69,6 +69,7 @@ font-size: 23px;
 .aboutImage {
     max-width: 100%;
     opacity: .6;
+    border-radius: 10px;
 
 }
 
